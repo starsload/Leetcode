@@ -14,7 +14,7 @@
 
 #include "all_in.h"
 
-using std namespace;
+using namespace std;
 
 class Solution {
 public:
