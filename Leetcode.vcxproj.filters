@@ -27,6 +27,9 @@
     <ClCompile Include="527_hanmin.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="528_total_hanmin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all_in.h">
