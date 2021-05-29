@@ -30,6 +30,9 @@
     <ClCompile Include="528_total_hanmin.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="529_submatric_total_value.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all_in.h">

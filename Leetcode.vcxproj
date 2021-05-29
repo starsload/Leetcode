@@ -144,6 +144,7 @@
     <ClCompile Include="526_reverse_()_childstring.cpp" />
     <ClCompile Include="527_hanmin.cpp" />
     <ClCompile Include="528_total_hanmin.cpp" />
+    <ClCompile Include="529_submatric_total_value.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all_in.h" />
