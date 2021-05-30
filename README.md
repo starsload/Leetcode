@@ -6,3 +6,4 @@ Leetcode刷题记录 2021
 5.27 pass  
 5.28 pass  
 5.29 review  
+5.30 pass  
