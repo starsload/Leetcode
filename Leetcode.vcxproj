@@ -146,6 +146,7 @@
     <ClCompile Include="528_total_hanmin.cpp" />
     <ClCompile Include="529_submatric_total_value.cpp" />
     <ClCompile Include="530_2^.cpp" />
+    <ClCompile Include="531_4^.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all_in.h" />
