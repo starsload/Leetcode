@@ -39,6 +39,12 @@
     <ClCompile Include="531_4^.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="601_favourate_candy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="602_subarray_sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all_in.h">
