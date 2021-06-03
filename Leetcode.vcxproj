@@ -149,6 +149,7 @@
     <ClCompile Include="531_4^.cpp" />
     <ClCompile Include="601_favourate_candy.cpp" />
     <ClCompile Include="602_subarray_sum.cpp" />
+    <ClCompile Include="603_subarray.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all_in.h" />
