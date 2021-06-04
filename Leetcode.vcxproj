@@ -150,6 +150,7 @@
     <ClCompile Include="601_favourate_candy.cpp" />
     <ClCompile Include="602_subarray_sum.cpp" />
     <ClCompile Include="603_subarray.cpp" />
+    <ClCompile Include="604_inject_list.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all_in.h" />

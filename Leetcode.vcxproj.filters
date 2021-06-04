@@ -48,6 +48,9 @@
     <ClCompile Include="603_subarray.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="604_inject_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all_in.h">
