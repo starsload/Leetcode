@@ -153,6 +153,7 @@
     <ClCompile Include="604_inject_list.cpp" />
     <ClCompile Include="605_remove_list_node.cpp" />
     <ClCompile Include="606_one_and_zero.cpp" />
+    <ClCompile Include="607_target_sum.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all_in.h" />

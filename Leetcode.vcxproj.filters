@@ -57,6 +57,9 @@
     <ClCompile Include="606_one_and_zero.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="607_target_sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all_in.h">
