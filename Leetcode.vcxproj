@@ -154,6 +154,7 @@
     <ClCompile Include="605_remove_list_node.cpp" />
     <ClCompile Include="606_one_and_zero.cpp" />
     <ClCompile Include="607_target_sum.cpp" />
+    <ClCompile Include="608_last_stone_weight_II.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all_in.h" />
