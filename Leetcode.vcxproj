@@ -155,6 +155,7 @@
     <ClCompile Include="606_one_and_zero.cpp" />
     <ClCompile Include="607_target_sum.cpp" />
     <ClCompile Include="608_last_stone_weight_II.cpp" />
+    <ClCompile Include="609_get_money.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all_in.h" />
