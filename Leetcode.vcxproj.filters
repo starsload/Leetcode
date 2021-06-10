@@ -66,6 +66,9 @@
     <ClCompile Include="609_get_money.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="610_money_change_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all_in.h">
